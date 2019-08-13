@@ -1,6 +1,10 @@
-#include <stdio.h>
+#include "heap.h"
+
+
 
 int main(int argc, char *argv[]){
-	puts("爱白菜的小昆虫");
+	INPUT();
+	HEAP_SORT();
+	PRINT();
 	return 0;
 }
