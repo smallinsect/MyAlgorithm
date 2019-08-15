@@ -1,10 +1,10 @@
-#include "heap.h"
 
-
+//#include "heap.h"
+#include "tree.h"
 
 int main(int argc, char *argv[]){
-	INPUT();
-	HEAP_SORT();
-	PRINT();
+	//testHeap();
+	testTree();
 	return 0;
 }
+

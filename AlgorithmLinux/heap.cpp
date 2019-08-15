@@ -70,3 +70,9 @@ void HEAP_SORT(){
 	}
 }
 
+void testHeap(){
+	INPUT();
+	HEAP_SORT();
+	PRINT();
+}
+

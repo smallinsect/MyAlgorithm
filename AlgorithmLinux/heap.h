@@ -8,4 +8,5 @@ void PRINT();
 
 void HEAP_SORT();
 
+void testHeap();
 #endif
